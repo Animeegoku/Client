@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+// eslint-disable-next-line no-unused-vars
+import LandingPageStyles from "./LandingPage.module.scss"
 
 const LandingPage = () => {
   return (
